@@ -1,0 +1,14 @@
+{
+    "name": "sal/fizz-buzz_php5.6",
+    "description": "fizzbuzz kata in php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cyberplanner",
+            "email": "sal@salweb.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
